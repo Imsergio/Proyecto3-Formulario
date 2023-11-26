@@ -7,6 +7,9 @@ form {
   max-width: 320px;
   width: 100%;
 }
+.radios,.edad{
+  flex: 1;
+}
 
 .form-field,
 footer div {
