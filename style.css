@@ -1,0 +1,14 @@
+.content {
+  align-items: center;
+}
+
+form {
+  text-align: center;
+  max-width: 320px;
+  width: 100%;
+}
+
+.form-field,
+footer div {
+  justify-content: space-between;
+}
